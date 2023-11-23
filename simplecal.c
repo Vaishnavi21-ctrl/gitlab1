@@ -1,8 +1,8 @@
 #include<stdio.h>
 main()
 (
- add();
- sub();
+ printf("sum of a and b");
+)
  mul();
  div();
 )
