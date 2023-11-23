@@ -1,10 +1,15 @@
 #include<stdio.h>
 main()
 (
+
  printf("ENTER HELLO");
 )
  add();
- sub();
+(
+ ********************
+ printf("sum of a and b");
+*******************
+)
  mul();
  div();
 )
